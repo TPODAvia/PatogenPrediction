@@ -1,0 +1,2 @@
+/home/rover2/HW1_popgen/kursov/PatogenPrediction/PathogenFinder2/test/data/GCF_000014385.1_ASM1438v1_genomic.fna
+/home/rover2/HW1_popgen/kursov/PatogenPrediction/PathogenFinder2/test/data/GCF_006493955.1_ASM649395v1_genomic.fna

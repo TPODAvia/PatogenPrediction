@@ -1,6 +1,7 @@
 dataset/result/
-# dataset/result_test/
+dataset/result_test_single/
 Diamond/
 Prodigal/
 PathogenFinder2
 uniref50.fasta
+uniref50.dmnd
