@@ -1,0 +1,11 @@
+Names	Species	Strain	RefSeq	Taxonomy	Distances
+Acinetobacter baumannii	Acinetobacter baumannii	TG31299	GCF_003949235.1	470	0.024558783
+Acinetobacter baumannii	Acinetobacter baumannii	MRSN32797	GCF_006492965.1	470	0.033880476
+Acinetobacter baumannii	Acinetobacter baumannii	CCBH28083	GCF_016054925.1	470	0.046182144
+Acinetobacter pittii	Acinetobacter baumannii//Acinetobacter pittii	ACIN00162	GCF_016503025.1	48296	0.0524605
+Acinetobacter nosocomialis	Acinetobacter baumannii	AN1	GCF_014218925.1	106654	0.06718177
+Acinetobacter baumannii	Acinetobacter baumannii	MRSN3658	GCF_006492495.1	470	0.069562286
+Acinetobacter pittii	Acinetobacter baumannii	WCHAP100001	GCF_004209725.1	48296	0.072446786
+Acinetobacter baumannii	Acinetobacter baumannii	AB17	GCF_008830885.1	470	0.07359138
+Acinetobacter oleivorans	Acinetobacter baumannii//Acinetobacter oleivorans	ACIN00263	GCF_016506085.1	1148157	0.07942629
+Acinetobacter nosocomialis	Acinetobacter baumannii//Acinetobacter nosocomialis	NCTC 8102	GCF_003143895.1	106654	0.079594806

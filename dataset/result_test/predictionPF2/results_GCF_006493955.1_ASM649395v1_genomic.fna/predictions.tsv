@@ -1,0 +1,5 @@
+# Results From PathogenFinder2
+## 'File Name' has the input file, 'Prediction_0-3' has the predictions of each neural network, 'Prediction Mean' has the mean of the 4 neural networks, 'Prediction_STD' has the standard deviation of the four predictions,
+## 'Phenotype' has if the prediction is pathogenic or non pathogenic, and 'Binary Prediction Mean' has the value of the prediction as 0 (non pathogenic) or 1 (pathogenic).
+File Name	Prediction_0	Prediction_1	Prediction_2	Prediction_3	Prediction Mean	Prediction STD	Binary Prediction Mean	Phenotype
+GCF_006493955.1_ASM649395v1_genomic.fna	0.96435546875	0.98486328125	0.99560546875	0.99267578125	0.984375	0.01220703125	1	Human Pathogenic
