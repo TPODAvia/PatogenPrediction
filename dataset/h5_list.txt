@@ -1,0 +1,5 @@
+/home/rover2/HW1_popgen/kursov/PatogenPrediction/dataset/result1/predictionPF2/preprocess_1000565.3.faa/ProteinEmbeddings.h5
+/home/rover2/HW1_popgen/kursov/PatogenPrediction/dataset/result80/predictionPF2/preprocess_762376.5.faa/ProteinEmbeddings.h5
+/home/rover2/HW1_popgen/kursov/PatogenPrediction/dataset/result69/predictionPF2/preprocess_644.34.faa/ProteinEmbeddings.h5
+/home/rover2/HW1_popgen/kursov/PatogenPrediction/dataset/result54/predictionPF2/preprocess_498217.4.faa/ProteinEmbeddings.h5
+/home/rover2/HW1_popgen/kursov/PatogenPrediction/dataset/result87/predictionPF2/preprocess_883165.3.faa/ProteinEmbeddings.h5
