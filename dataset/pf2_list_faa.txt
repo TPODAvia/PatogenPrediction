@@ -138,6 +138,7 @@
 /home/rover2/2856_genomes/prokka_outputs/1089547.3/1089547.3.faa
 /home/rover2/2856_genomes/prokka_outputs/108980.15/108980.15.faa
 /home/rover2/2856_genomes/prokka_outputs/108980.39/108980.39.faa
+/home/rover2/2856_genomes/prokka_outputs/108980.40/108980.40.faa
 /home/rover2/2856_genomes/prokka_outputs/1090321.3/1090321.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1091045.3/1091045.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1095726.3/1095726.3.faa
@@ -583,6 +584,7 @@
 /home/rover2/2856_genomes/prokka_outputs/1278306.3/1278306.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1279365.3/1279365.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1280.12686/1280.12686.faa
+/home/rover2/2856_genomes/prokka_outputs/1280.19125/1280.19125.faa
 /home/rover2/2856_genomes/prokka_outputs/1280691.4/1280691.4.faa
 /home/rover2/2856_genomes/prokka_outputs/1280692.3/1280692.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1280702.3/1280702.3.faa
@@ -613,24 +615,31 @@
 /home/rover2/2856_genomes/prokka_outputs/1298922.3/1298922.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1300222.3/1300222.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1300227.3/1300227.3.faa
+/home/rover2/2856_genomes/prokka_outputs/1301.176/1301.176.faa
 /home/rover2/2856_genomes/prokka_outputs/1302650.3/1302650.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1303.149/1303.149.faa
 /home/rover2/2856_genomes/prokka_outputs/1304.173/1304.173.faa
 /home/rover2/2856_genomes/prokka_outputs/1304.182/1304.182.faa
 /home/rover2/2856_genomes/prokka_outputs/1304.245/1304.245.faa
 /home/rover2/2856_genomes/prokka_outputs/1304.435/1304.435.faa
+/home/rover2/2856_genomes/prokka_outputs/1304.573/1304.573.faa
 /home/rover2/2856_genomes/prokka_outputs/1304881.3/1304881.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1305598.3/1305598.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1306409.3/1306409.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1306952.3/1306952.3.faa
+/home/rover2/2856_genomes/prokka_outputs/1308.608/1308.608.faa
+/home/rover2/2856_genomes/prokka_outputs/1309.148/1309.148.faa
 /home/rover2/2856_genomes/prokka_outputs/1309806.3/1309806.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1309807.3/1309807.3.faa
+/home/rover2/2856_genomes/prokka_outputs/1311.1914/1311.1914.faa
+/home/rover2/2856_genomes/prokka_outputs/1313.16321/1313.16321.faa
 /home/rover2/2856_genomes/prokka_outputs/1314884.3/1314884.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1315976.3/1315976.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1316254.3/1316254.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1316583.3/1316583.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1316928.3/1316928.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1316931.3/1316931.3.faa
+/home/rover2/2856_genomes/prokka_outputs/1318.171/1318.171.faa
 /home/rover2/2856_genomes/prokka_outputs/1318.48/1318.48.faa
 /home/rover2/2856_genomes/prokka_outputs/1318615.3/1318615.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1318.8/1318.8.faa
@@ -645,8 +654,10 @@
 /home/rover2/2856_genomes/prokka_outputs/1328.20/1328.20.faa
 /home/rover2/2856_genomes/prokka_outputs/1328.24/1328.24.faa
 /home/rover2/2856_genomes/prokka_outputs/1328.82/1328.82.faa
+/home/rover2/2856_genomes/prokka_outputs/1328.83/1328.83.faa
 /home/rover2/2856_genomes/prokka_outputs/1330040.3/1330040.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1331671.3/1331671.3.faa
+/home/rover2/2856_genomes/prokka_outputs/1334.143/1334.143.faa
 /home/rover2/2856_genomes/prokka_outputs/1339348.3/1339348.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1340495.3/1340495.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1348623.7/1348623.7.faa
@@ -661,6 +672,7 @@
 /home/rover2/2856_genomes/prokka_outputs/1354.64/1354.64.faa
 /home/rover2/2856_genomes/prokka_outputs/1354.73/1354.73.faa
 /home/rover2/2856_genomes/prokka_outputs/1354.8/1354.8.faa
+/home/rover2/2856_genomes/prokka_outputs/1354.82/1354.82.faa
 /home/rover2/2856_genomes/prokka_outputs/1365960.3/1365960.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1365961.3/1365961.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1365962.3/1365962.3.faa
@@ -674,6 +686,7 @@
 /home/rover2/2856_genomes/prokka_outputs/1367477.3/1367477.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1379.3/1379.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1379.45/1379.45.faa
+/home/rover2/2856_genomes/prokka_outputs/1379.83/1379.83.faa
 /home/rover2/2856_genomes/prokka_outputs/138119.41/138119.41.faa
 /home/rover2/2856_genomes/prokka_outputs/1384484.3/1384484.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1385938.3/1385938.3.faa
@@ -762,6 +775,7 @@
 /home/rover2/2856_genomes/prokka_outputs/161879.12/161879.12.faa
 /home/rover2/2856_genomes/prokka_outputs/1619234.3/1619234.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1629550.4/1629550.4.faa
+/home/rover2/2856_genomes/prokka_outputs/1632.12/1632.12.faa
 /home/rover2/2856_genomes/prokka_outputs/1632.6/1632.6.faa
 /home/rover2/2856_genomes/prokka_outputs/1637511.3/1637511.3.faa
 /home/rover2/2856_genomes/prokka_outputs/1639.1007/1639.1007.faa
@@ -780,9 +794,11 @@
 /home/rover2/2856_genomes/prokka_outputs/165179.612/165179.612.faa
 /home/rover2/2856_genomes/prokka_outputs/165187.27/165187.27.faa
 /home/rover2/2856_genomes/prokka_outputs/1653434.3/1653434.3.faa
+/home/rover2/2856_genomes/prokka_outputs/1654.11/1654.11.faa
 /home/rover2/2856_genomes/prokka_outputs/1655.46/1655.46.faa
 /home/rover2/2856_genomes/prokka_outputs/1655.49/1655.49.faa
 /home/rover2/2856_genomes/prokka_outputs/1655.52/1655.52.faa
+/home/rover2/2856_genomes/prokka_outputs/1655.82/1655.82.faa
 /home/rover2/2856_genomes/prokka_outputs/1660.10/1660.10.faa
 /home/rover2/2856_genomes/prokka_outputs/1660.4/1660.4.faa
 /home/rover2/2856_genomes/prokka_outputs/166486.30/166486.30.faa
@@ -923,6 +939,7 @@
 /home/rover2/2856_genomes/prokka_outputs/1965588.3/1965588.3.faa
 /home/rover2/2856_genomes/prokka_outputs/196620.1/196620.1.faa
 /home/rover2/2856_genomes/prokka_outputs/1970790.3/1970790.3.faa
+/home/rover2/2856_genomes/prokka_outputs/197.15238/197.15238.faa
 /home/rover2/2856_genomes/prokka_outputs/1973217.4/1973217.4.faa
 /home/rover2/2856_genomes/prokka_outputs/197.5229/197.5229.faa
 /home/rover2/2856_genomes/prokka_outputs/197.5249/197.5249.faa
@@ -934,6 +951,7 @@
 /home/rover2/2856_genomes/prokka_outputs/199310.1/199310.1.faa
 /home/rover2/2856_genomes/prokka_outputs/199.830/199.830.faa
 /home/rover2/2856_genomes/prokka_outputs/199.901/199.901.faa
+/home/rover2/2856_genomes/prokka_outputs/199.994/199.994.faa
 /home/rover2/2856_genomes/prokka_outputs/2022527.3/2022527.3.faa
 /home/rover2/2856_genomes/prokka_outputs/2024205.3/2024205.3.faa
 /home/rover2/2856_genomes/prokka_outputs/2025493.3/2025493.3.faa
@@ -957,6 +975,7 @@
 /home/rover2/2856_genomes/prokka_outputs/2047.138/2047.138.faa
 /home/rover2/2856_genomes/prokka_outputs/2047.139/2047.139.faa
 /home/rover2/2856_genomes/prokka_outputs/2047.140/2047.140.faa
+/home/rover2/2856_genomes/prokka_outputs/2047.141/2047.141.faa
 /home/rover2/2856_genomes/prokka_outputs/2049022.3/2049022.3.faa
 /home/rover2/2856_genomes/prokka_outputs/2049047.84/2049047.84.faa
 /home/rover2/2856_genomes/prokka_outputs/2057797.3/2057797.3.faa
@@ -1106,6 +1125,7 @@
 /home/rover2/2856_genomes/prokka_outputs/216816.324/216816.324.faa
 /home/rover2/2856_genomes/prokka_outputs/216816.359/216816.359.faa
 /home/rover2/2856_genomes/prokka_outputs/216816.368/216816.368.faa
+/home/rover2/2856_genomes/prokka_outputs/216816.378/216816.378.faa
 /home/rover2/2856_genomes/prokka_outputs/218495.5/218495.5.faa
 /home/rover2/2856_genomes/prokka_outputs/218496.4/218496.4.faa
 /home/rover2/2856_genomes/prokka_outputs/218538.1051/218538.1051.faa
@@ -1217,6 +1237,7 @@
 /home/rover2/2856_genomes/prokka_outputs/28131.5/28131.5.faa
 /home/rover2/2856_genomes/prokka_outputs/28132.3/28132.3.faa
 /home/rover2/2856_genomes/prokka_outputs/28132.5/28132.5.faa
+/home/rover2/2856_genomes/prokka_outputs/28132.6/28132.6.faa
 /home/rover2/2856_genomes/prokka_outputs/28141.40/28141.40.faa
 /home/rover2/2856_genomes/prokka_outputs/28141.62/28141.62.faa
 /home/rover2/2856_genomes/prokka_outputs/28152.3/28152.3.faa
@@ -1224,6 +1245,8 @@
 /home/rover2/2856_genomes/prokka_outputs/282458.4/282458.4.faa
 /home/rover2/2856_genomes/prokka_outputs/282459.5/282459.5.faa
 /home/rover2/2856_genomes/prokka_outputs/28449.59/28449.59.faa
+/home/rover2/2856_genomes/prokka_outputs/28449.60/28449.60.faa
+/home/rover2/2856_genomes/prokka_outputs/28449.61/28449.61.faa
 /home/rover2/2856_genomes/prokka_outputs/286636.3/286636.3.faa
 /home/rover2/2856_genomes/prokka_outputs/287.1306/287.1306.faa
 /home/rover2/2856_genomes/prokka_outputs/287.1307/287.1307.faa
@@ -1239,6 +1262,7 @@
 /home/rover2/2856_genomes/prokka_outputs/292800.27/292800.27.faa
 /home/rover2/2856_genomes/prokka_outputs/294.123/294.123.faa
 /home/rover2/2856_genomes/prokka_outputs/29466.144/29466.144.faa
+/home/rover2/2856_genomes/prokka_outputs/29466.153/29466.153.faa
 /home/rover2/2856_genomes/prokka_outputs/29466.62/29466.62.faa
 /home/rover2/2856_genomes/prokka_outputs/295319.15/295319.15.faa
 /home/rover2/2856_genomes/prokka_outputs/295405.11/295405.11.faa
@@ -1264,6 +1288,7 @@
 /home/rover2/2856_genomes/prokka_outputs/316.77/316.77.faa
 /home/rover2/2856_genomes/prokka_outputs/32019.15/32019.15.faa
 /home/rover2/2856_genomes/prokka_outputs/32042.3/32042.3.faa
+/home/rover2/2856_genomes/prokka_outputs/32067.3/32067.3.faa
 /home/rover2/2856_genomes/prokka_outputs/321314.9/321314.9.faa
 /home/rover2/2856_genomes/prokka_outputs/321955.4/321955.4.faa
 /home/rover2/2856_genomes/prokka_outputs/321956.7/321956.7.faa
@@ -1361,6 +1386,7 @@
 /home/rover2/2856_genomes/prokka_outputs/39777.11/39777.11.faa
 /home/rover2/2856_genomes/prokka_outputs/39777.28/39777.28.faa
 /home/rover2/2856_genomes/prokka_outputs/39777.29/39777.29.faa
+/home/rover2/2856_genomes/prokka_outputs/39777.37/39777.37.faa
 /home/rover2/2856_genomes/prokka_outputs/398511.4/398511.4.faa
 /home/rover2/2856_genomes/prokka_outputs/398513.5/398513.5.faa
 /home/rover2/2856_genomes/prokka_outputs/398525.3/398525.3.faa
@@ -1372,6 +1398,7 @@
 /home/rover2/2856_genomes/prokka_outputs/40215.43/40215.43.faa
 /home/rover2/2856_genomes/prokka_outputs/40215.63/40215.63.faa
 /home/rover2/2856_genomes/prokka_outputs/40215.64/40215.64.faa
+/home/rover2/2856_genomes/prokka_outputs/40215.71/40215.71.faa
 /home/rover2/2856_genomes/prokka_outputs/40324.126/40324.126.faa
 /home/rover2/2856_genomes/prokka_outputs/40520.1561/40520.1561.faa
 /home/rover2/2856_genomes/prokka_outputs/40520.1729/40520.1729.faa
@@ -1422,6 +1449,7 @@
 /home/rover2/2856_genomes/prokka_outputs/41514.7/41514.7.faa
 /home/rover2/2856_genomes/prokka_outputs/416269.6/416269.6.faa
 /home/rover2/2856_genomes/prokka_outputs/416870.9/416870.9.faa
+/home/rover2/2856_genomes/prokka_outputs/416916.59/416916.59.faa
 /home/rover2/2856_genomes/prokka_outputs/418127.6/418127.6.faa
 /home/rover2/2856_genomes/prokka_outputs/420889.6/420889.6.faa
 /home/rover2/2856_genomes/prokka_outputs/420890.5/420890.5.faa
@@ -1445,6 +1473,7 @@
 /home/rover2/2856_genomes/prokka_outputs/435998.3/435998.3.faa
 /home/rover2/2856_genomes/prokka_outputs/43675.106/43675.106.faa
 /home/rover2/2856_genomes/prokka_outputs/43675.152/43675.152.faa
+/home/rover2/2856_genomes/prokka_outputs/43675.207/43675.207.faa
 /home/rover2/2856_genomes/prokka_outputs/43675.28/43675.28.faa
 /home/rover2/2856_genomes/prokka_outputs/439375.7/439375.7.faa
 /home/rover2/2856_genomes/prokka_outputs/439851.8/439851.8.faa
@@ -1499,6 +1528,7 @@
 /home/rover2/2856_genomes/prokka_outputs/457422.3/457422.3.faa
 /home/rover2/2856_genomes/prokka_outputs/45972.8/45972.8.faa
 /home/rover2/2856_genomes/prokka_outputs/460384.4/460384.4.faa
+/home/rover2/2856_genomes/prokka_outputs/46124.3/46124.3.faa
 /home/rover2/2856_genomes/prokka_outputs/465515.4/465515.4.faa
 /home/rover2/2856_genomes/prokka_outputs/467210.3/467210.3.faa
 /home/rover2/2856_genomes/prokka_outputs/467705.9/467705.9.faa
@@ -1585,6 +1615,7 @@
 /home/rover2/2856_genomes/prokka_outputs/488221.3/488221.3.faa
 /home/rover2/2856_genomes/prokka_outputs/488222.3/488222.3.faa
 /home/rover2/2856_genomes/prokka_outputs/488223.4/488223.4.faa
+/home/rover2/2856_genomes/prokka_outputs/490.24/490.24.faa
 /home/rover2/2856_genomes/prokka_outputs/490.6/490.6.faa
 /home/rover2/2856_genomes/prokka_outputs/490.7/490.7.faa
 /home/rover2/2856_genomes/prokka_outputs/491074.3/491074.3.faa
@@ -1757,6 +1788,7 @@
 /home/rover2/2856_genomes/prokka_outputs/537971.5/537971.5.faa
 /home/rover2/2856_genomes/prokka_outputs/537972.5/537972.5.faa
 /home/rover2/2856_genomes/prokka_outputs/537973.8/537973.8.faa
+/home/rover2/2856_genomes/prokka_outputs/54067.6/54067.6.faa
 /home/rover2/2856_genomes/prokka_outputs/541229.3/541229.3.faa
 /home/rover2/2856_genomes/prokka_outputs/543734.4/543734.4.faa
 /home/rover2/2856_genomes/prokka_outputs/544404.4/544404.4.faa
@@ -1860,6 +1892,7 @@
 /home/rover2/2856_genomes/prokka_outputs/561180.4/561180.4.faa
 /home/rover2/2856_genomes/prokka_outputs/561276.4/561276.4.faa
 /home/rover2/2856_genomes/prokka_outputs/562.39593/562.39593.faa
+/home/rover2/2856_genomes/prokka_outputs/562.39594/562.39594.faa
 /home/rover2/2856_genomes/prokka_outputs/562973.4/562973.4.faa
 /home/rover2/2856_genomes/prokka_outputs/562981.3/562981.3.faa
 /home/rover2/2856_genomes/prokka_outputs/562982.3/562982.3.faa
@@ -2282,9 +2315,12 @@
 /home/rover2/2856_genomes/prokka_outputs/720557.3/720557.3.faa
 /home/rover2/2856_genomes/prokka_outputs/722438.3/722438.3.faa
 /home/rover2/2856_genomes/prokka_outputs/722911.3/722911.3.faa
+/home/rover2/2856_genomes/prokka_outputs/726.153/726.153.faa
+/home/rover2/2856_genomes/prokka_outputs/727.1826/727.1826.faa
 /home/rover2/2856_genomes/prokka_outputs/727.305/727.305.faa
 /home/rover2/2856_genomes/prokka_outputs/727.532/727.532.faa
 /home/rover2/2856_genomes/prokka_outputs/729.20/729.20.faa
+/home/rover2/2856_genomes/prokka_outputs/729.354/729.354.faa
 /home/rover2/2856_genomes/prokka_outputs/730.11/730.11.faa
 /home/rover2/2856_genomes/prokka_outputs/732.8/732.8.faa
 /home/rover2/2856_genomes/prokka_outputs/741093.3/741093.3.faa
@@ -2489,12 +2525,16 @@
 /home/rover2/2856_genomes/prokka_outputs/83334.1/83334.1.faa
 /home/rover2/2856_genomes/prokka_outputs/83427.50/83427.50.faa
 /home/rover2/2856_genomes/prokka_outputs/837.83/837.83.faa
+/home/rover2/2856_genomes/prokka_outputs/838.107/838.107.faa
+/home/rover2/2856_genomes/prokka_outputs/851.120/851.120.faa
+/home/rover2/2856_genomes/prokka_outputs/853.234/853.234.faa
 /home/rover2/2856_genomes/prokka_outputs/853.820/853.820.faa
 /home/rover2/2856_genomes/prokka_outputs/85698.28/85698.28.faa
 /home/rover2/2856_genomes/prokka_outputs/857292.4/857292.4.faa
 /home/rover2/2856_genomes/prokka_outputs/857293.11/857293.11.faa
 /home/rover2/2856_genomes/prokka_outputs/85962.8/85962.8.faa
 /home/rover2/2856_genomes/prokka_outputs/85963.7/85963.7.faa
+/home/rover2/2856_genomes/prokka_outputs/860.70/860.70.faa
 /home/rover2/2856_genomes/prokka_outputs/861454.3/861454.3.faa
 /home/rover2/2856_genomes/prokka_outputs/862513.3/862513.3.faa
 /home/rover2/2856_genomes/prokka_outputs/862514.3/862514.3.faa
@@ -2580,6 +2620,7 @@
 /home/rover2/2856_genomes/prokka_outputs/883150.3/883150.3.faa
 /home/rover2/2856_genomes/prokka_outputs/883151.3/883151.3.faa
 /home/rover2/2856_genomes/prokka_outputs/883152.3/883152.3.faa
+/home/rover2/2856_genomes/prokka_outputs/883153.3/883153.3.faa
 /home/rover2/2856_genomes/prokka_outputs/883154.3/883154.3.faa
 /home/rover2/2856_genomes/prokka_outputs/883156.3/883156.3.faa
 /home/rover2/2856_genomes/prokka_outputs/883162.3/883162.3.faa
