@@ -38,8 +38,8 @@ PF2_COLS = [
 
 # ------------------------- helpers -------------------------
 
-RESULTS_DIR_NAME_RE = re.compile(r"results_(.+?)\.faa$", re.IGNORECASE)
-RESULTS_DIR_FALLBACK_RE = re.compile(r"results_(.+)$", re.IGNORECASE)
+RESULTS_DIR_NAME_RE      = re.compile(r"^results_(.+?)\.(?:faa|fna)$", re.IGNORECASE)
+RESULTS_DIR_FALLBACK_RE    = re.compile(r"^results_(.+)$", re.IGNORECASE)
 
 def extract_seed_id_from_results_dir(results_dir_name: str) -> Optional[str]:
     """
